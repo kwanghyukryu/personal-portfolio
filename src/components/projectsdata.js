@@ -1,4 +1,4 @@
-import github from './pic/github-mark.png';
+
 import drone from './pic/drone.png';
 import discordbot from './pic/discordbot.png';
 import pong from './pic/pong.png';

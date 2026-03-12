@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "node skip-css-minify.js && npx serve -s build -l 5000",
+    "build": "node skip-css-minify.js && react-scripts build",
 
     "test": "react-scripts test",
     "eject": "react-scripts eject"

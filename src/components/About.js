@@ -11,7 +11,7 @@ function About() {
         <h1 className="about-title">About Me</h1>
         <div className="about-text">
           <p>
-            Hello! I’m <strong>Kwanghyuk Ryu</strong>, a passionate and dedicated Computer Engineering student at Simon Fraser University.
+            Hello!!!!!!!! I’m <strong>Kwanghyuk Ryu</strong>, a passionate and dedicated Computer Engineering student at Simon Fraser University.
             I have a strong foundation in programming languages like Java, Python, and C++, and a deep interest in full-stack development,
             embedded systems, and hardware-software integration.
           </p>
